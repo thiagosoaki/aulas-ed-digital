@@ -8,6 +8,11 @@ h1{
     text-align: center;
 }
 
+p{
+    border: 2px white;
+    text-align:right;
+}
+
 img{
     position: absolute;
     top: 50px;
