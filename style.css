@@ -1,24 +1,34 @@
-body{
-    background-color: black;
-}
-
-h1{
-    color: white;
-    border: 2px black;
+header{
+    border: 8px;
+    background-color: gray;
+    font-family: poppins;
+    border-radius: 5px;
     text-align: center;
+    color: white;
 }
 
-p{
-    border: 2px white;
-    text-align:right;
+strong{
+    color: rgb(151, 229, 151);
 }
 
-img{
-    position: absolute;
-    top: 50px;
-    left: 250px;
-    border: 2px white;
-    border-radius: 8px;
-    width: 200px;
-    height: 200px;
+
+.art1{
+    font-family: poppins;
+    font-size: 35px;
+}
+
+.art1p{
+    font-family: Poppins;
+    text-align:left;
+    font-size: 25px;
+    max-width: 30%;
+    margin: -5 auto;
+}
+
+.poco{
+    position: relative;
+    left: 40%;
+    top: -450px;
+    margin: 5 auto;
+    border-radius: 100px;
 }
