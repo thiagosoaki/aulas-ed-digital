@@ -11,6 +11,10 @@ strong{
     color: rgb(151, 229, 151);
 }
 
+.byrons{
+    color: rgb(177, 56, 56);
+}
+
 
 .art1{
     font-family: poppins;
@@ -29,6 +33,58 @@ strong{
     position: relative;
     left: 40%;
     top: -450px;
-    margin: 5 auto;
     border-radius: 100px;
+}
+
+.art2{
+    font-family: poppins;
+    font-size: 35px;
+    position: relative;
+    top: -400px;
+}
+
+.art2b{
+    font-family: poppins;
+    font-size: 25px;
+    position: relative;
+    top: -370px;
+    text-align: left;
+    max-width: 30%;
+    margin: -5 auto;
+}
+
+.byron{
+    position: relative;
+    left: 40%;
+    top: -850px;
+    border-radius: 100px;
+
+}
+
+.guss{
+    color: rgb(56, 129, 177);
+}
+
+.art3{
+    font-family: poppins;
+    position: relative;
+    top: -750px;
+    font-size: 35px;
+}
+
+.art3g{
+    font-family: poppins;
+    font-size: 25px;
+    position: relative;
+    top: -750px;
+    text-align: left;
+    max-width: 30%;
+    margin: -5 auto; 
+}
+
+.gus{
+    position: relative;
+    left: 40%;
+    border-radius: 100px;
+    top: -1225px;
 }
